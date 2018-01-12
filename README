@@ -6,3 +6,4 @@ scrapy genspider example example.com
 scrapy crawl example
 scrapy crawl toscrape-css -o quotes_css.json
 scrapy crawl toscrape-xpath -o quotes_xpath.json
+scrapy crawl douban_book
